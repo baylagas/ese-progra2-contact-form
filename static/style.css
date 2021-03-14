@@ -11,3 +11,11 @@ input,
 textarea{
     font-family:"Poppins", sans-serif;
 }
+
+.container{
+    position:relative;
+    width: 100%;
+    min-height: 100vh;
+    padding: 2rem;
+    background-color:#fafafa;
+}
