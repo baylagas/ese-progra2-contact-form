@@ -43,9 +43,21 @@ textarea{
 }
 
 .circle{
-    width:100px;
-    height:100px;
     border-radius:50%;
     background: red;
     position:absolute;
+}
+
+.circle.one{
+    width:130px;
+    height:130px;
+    top:130px;
+    right: -40px;
+}
+
+.circle.two{
+    width:80px;
+    height:80px;
+    top:10px;
+    right: 30px;
 }
