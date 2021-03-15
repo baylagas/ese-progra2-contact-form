@@ -44,7 +44,7 @@ textarea{
 
 .circle{
     border-radius:50%;
-    background: red;
+    background:linear-gradient(135deg, transparent 20%, #149279);
     position:absolute;
 }
 
