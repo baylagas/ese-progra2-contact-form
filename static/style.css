@@ -36,3 +36,8 @@ textarea{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
 }
+
+.contact-form{
+    background-color: #1abc9c;
+    position: relative;
+}
