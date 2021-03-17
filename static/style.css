@@ -163,3 +163,24 @@ textarea.input{
     pointer-events: none;
     z-index: 500;
 }
+
+.input-container span::before,
+.input-container span::after{
+    content: "";
+    position:absolute;
+    width:10%;
+    opacity: 0;
+    transition: 0.3s;
+    height:5px;
+    background-color: #1abc9c;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.input-container span::before{
+    left: 50%;
+}
+
+.input-container span::after{
+    right:50%;
+}
