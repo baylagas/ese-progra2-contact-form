@@ -27,7 +27,6 @@ textarea{
 .form{
     width:100%;
     max-width: 820px;
-    height:500px;
     background-color:#fff;
     border-radius: 10px;
     box-shadow: 0 0 20px 1px rgba(0,0,0,0.1);
@@ -145,4 +144,10 @@ textarea.input{
     outline: none;
     cursor: pointer;
     transition: 0.3s;
+    margin: 0;
+}
+
+.btn:hover{
+    background-color: transparent;
+    color:#fff;
 }
