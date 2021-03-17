@@ -87,3 +87,8 @@ form{
     line-height: 1;
     margin-bottom: 0.7rem;
 }
+
+.input-container{
+    position: relative;
+    margin: 1rem 0;
+}
