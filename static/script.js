@@ -1,1 +1,2 @@
-alert("hello")
+const inputs = document.querySelectorAll(".input")
+
