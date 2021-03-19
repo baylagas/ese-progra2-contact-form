@@ -313,4 +313,10 @@ textarea.input{
         transform: translate(140%, 43%);
         height:350px;
     }
+
+    .big-circle{
+        bottom:75px;
+        transform: scale(0.9) translate(-40%, 30%);
+        right:50%;
+    }
 }
