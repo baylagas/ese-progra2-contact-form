@@ -7,7 +7,9 @@ function focusFunction() {
 
 function blurFunction() {
     let parent = this.parentNode
-    parent.classList.remove("focus")
+    if (this.value == "") {
+        parent.classList.remove("focus")
+    }
 }
 
 inputs.forEach((input) => {
