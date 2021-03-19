@@ -301,4 +301,11 @@ textarea.input{
     .form{
         grid-template-columns: 1fr;
     }
+
+    .contact-info::before{
+        bottom: initial;
+        top:-75px;
+        right:65px;
+        transform: scale(0.95);
+    }
 }
