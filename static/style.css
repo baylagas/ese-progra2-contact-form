@@ -210,3 +210,8 @@ textarea.input{
 .contact-info .title{
     color: #1abc9c;
 }
+
+.text{
+    color: #333;
+    margin: 1.5rem 0 2rem 0;
+}
