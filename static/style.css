@@ -308,4 +308,9 @@ textarea.input{
         right:65px;
         transform: scale(0.95);
     }
+
+    .square{
+        transform: translate(140%, 43%);
+        height:350px;
+    }
 }
