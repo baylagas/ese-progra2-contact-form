@@ -249,3 +249,7 @@ textarea.input{
     margin-right: 0.5rem;
     transition: .3s;
 }
+
+.social-icons a:hover{
+    transform: scale(1.05);
+}
