@@ -228,3 +228,7 @@ textarea.input{
 .social-media{
     padding: 2rem 0 0 0;
 }
+
+.social-media p{
+    color: #333;
+}
